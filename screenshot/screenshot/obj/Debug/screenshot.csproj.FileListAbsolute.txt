@@ -1,0 +1,31 @@
+c:\users\юлия\documents\visual studio 2013\Projects\screenshot\screenshot\bin\Debug\screenshot.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\bin\Debug\screenshot.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\bin\Debug\screenshot.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.ScreenShot.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\screenshot\screenshot\obj\Debug\screenshot.pdb
+C:\Users\User\Desktop\screenshot\screenshot\bin\Debug\screenshot.exe.config
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.exe
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.pdb
+C:\Users\User\Desktop\screenshot\screenshot\bin\Debug\screenshot.exe
+C:\Users\User\Desktop\screenshot\screenshot\bin\Debug\screenshot.pdb
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.Form1.resources
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.Properties.Resources.resources
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.ScreenShot.resources
+C:\Users\User\Desktop\screenshot\screenshot\obj\Debug\screenshot.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\bin\Debug\screenshot.exe.config
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\bin\Debug\screenshot.exe
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\bin\Debug\screenshot.pdb
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.Form1.resources
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.ScreenShot.resources
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.exe
+C:\Users\User\Desktop\проекты программирование\screenshot\screenshot\obj\Debug\screenshot.pdb
